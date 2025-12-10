@@ -188,7 +188,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/wicsfl)
+- GitHub: [@wicsfl](https://github.com/wicsfl)
 
 ## 🙏 Acknowledgments
 
