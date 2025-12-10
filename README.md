@@ -70,6 +70,7 @@ Navigate to `http://localhost:3000`
 product-performance-analysis-ml/
 ├── src/
 │   ├── App.jsx                 # Main dashboard component
+│   ├── index.css
 │   └── index.js                # Entry point
 ├── data/
 │   └── product_sales.csv       # Sample dataset
@@ -77,6 +78,7 @@ product-performance-analysis-ml/
 │   └── index.html
 ├── package.json
 └── README.md
+└── tailwind.config
 ```
 
 ## 🎓 Machine Learning Implementation
