@@ -17,10 +17,6 @@ This project implements machine learning algorithms from scratch to analyze prod
 - ✅ **Interactive Visualizations** - Real-time cluster analysis and model comparison
 - ✅ **Business Insights** - Actionable recommendations for each product cluster
 
-## 🚀 Live Demo
-
-[View Live Dashboard](#) *(Add your deployment link here)*
-
 ## 📊 Dataset
 
 The application analyzes `product_sales.csv` containing 200 product records with features:
@@ -47,7 +43,7 @@ The application analyzes `product_sales.csv` containing 200 product records with
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/product-performance-analysis-ml.git
+git clone https://github.com/wicsfl/product-performance-analysis-ml.git
 cd product-performance-analysis-ml
 ```
 
@@ -192,8 +188,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: [@your-username](https://github.com/wicsfl)
 
 ## 🙏 Acknowledgments
 
@@ -204,7 +199,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue or contact [your-email@example.com]
+For questions or feedback, please open an issue or contact [jflor187@fiu.edu]
 
 ---
 
